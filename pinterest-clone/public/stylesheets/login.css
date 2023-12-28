@@ -9,7 +9,7 @@ body {
 }
 .container {
   background-color: white;
-  width: 60%;
+  width: 460px;
   height: 650px;
   position: absolute;
   margin: auto;
@@ -157,4 +157,11 @@ a {
   text-align: center;
   letter-spacing: 1px;
   font-weight: bold;
+}
+
+.error {
+  font-weight: 800;
+  text-transform: capitalize;
+  margin: 7px 0;
+  color: red;
 }
